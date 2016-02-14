@@ -1,0 +1,14 @@
+Instruction:
+
+1. Open TP2.py in the Demo. 
+2. Use "up" or "down" key to select "Play," "Help," etc.
+3. Choose the background for battlefield you want
+4. RIGHT click to choose the level package: 1-3, 4-6.
+	For other buttons (say return the main menu), use LEFT click.
+5. Enter the level number you want, and hit "ENTER" key ("Return" key).
+	If the level you choose is unavailable, the game will tell you so.
+6. Save the progress (the level you have completed) at any time by pressing "s."
+	Read the record by pressing "space" key.
+7. Rules for play are in the "Help."
+
+Thank you!

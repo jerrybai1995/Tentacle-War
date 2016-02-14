@@ -1,0 +1,31 @@
+15-112 Term Project Timesheet
+Name: Shaojie Bai
+Andrew ID: shaojieb	
+
+April 3rd 1:00pm --- 5:00pm. Try panda3d module and pygame module
+April 9th 1:00pm --- 2:20pm. Constructing story board and try to come up with the rules of the game.
+April 9th 3:30pm --- 4:30pm. Preparing for the Deliverable #0 (Proposals,etc.).
+April 9th 4:30pm --- 4:50pm. Meeting with course CA mentor and talk about the term project.
+April 11st 1:00pm --- 5:00pm. Learning about pygame.
+April 12nd 3:00pm --- 7:00pm. Learning about pygame and working on Term Project.
+April 13rd 8:30pm --- 9:30pm. Working on Term Project.
+April 14th 7:30pm --- 10:00pm. Working on Term Project (physics part).
+April 15th 9:00pm --- 10:30pm. Debugging,cropping images and working on chains
+April 16th 0:30am --- 1:40am. Working on chain signals.
+April 18th 8:50pm --- 10:00pm. Working on Term Project.
+Aptil 19th 11:00am --- 12:00am (AM!). Working on Term Project.
+April 20th 12:00am --- 3:00am. Working on Term Project Artificial Intelligence.
+April 21st 5:00pm --- 7:00pm. User Interface.
+April 22nd 1:30pm --- 3:30pm. Artificial Intelligence
+April 22nd 6:00pm --- 9:00pm. Artificial Intelligence and Level Design
+April 23rd 3:30pm --- 6:30pm. Artificial Intelligence, Debugging, Deliverable 2 Preparation.
+April 25th 7:30pm --- 10:00pm. Working on Needle Feature.
+April 26th 12:00am --- 2:00am. Working on Achievement Feature.
+April 26th 2:00pm --- 9:00pm. Working on Achievement, save/load and Level Design.
+April 26th 12:00am --- 1:30am. Working on advanced Artificial Intelligence
+April 27th 3:30pm --- 8:30pm. Working on advanced Artificial Intelligence and signal transport
+April 28th 4:30pm --- 9:30pm. Working on curly/wavy feature of the tentacle. Level Design
+April 29th 2:00am --- 5:00am. Debugging and fixing style.
+April 29th 6:00pm --- 8:00pm. Level Design, meet with mentor, adding Tutorial
+April 30th 4:00pm --- 6:00pm. Complete Tutorial and Credit Page.
+#77 hrs
