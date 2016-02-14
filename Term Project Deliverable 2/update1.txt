@@ -1,0 +1,19 @@
+Name: Shaojie Bai
+Andrew ID: shaojieb
+
+Updates from Term Project Deliverable 1:
+
+1. Tentacles can now transport signals that affect the target's life value
+2. The program is able to identify tentacle cut
+3. Tentacle can be divided into two parts: one collapsing to the target and one to the parent cell
+4. User Interface added: Main Menu, Help, Level Chosen, Background, "LEVEL COMPLETE" interface, Re-play, etc.
+5. The user is able to freely go back to main menu, and before playing they can choose background
+6. Artificial Intelligence. The enemy cell takes a relatively advaced algorithm (possibly I will update further next week) that I designed
+	such that their moves are based on simple FSM (Finite State Machine) principle. Priority Queue is used. Computer will determine the
+	state of the enemy cell; but after they are assimilated, they are controlled by the user, and enemy-color tentacles gradually collapse.
+7. Music is added to the game (put headphones!)
+8. Available and Unavailable state: based on the progress of the user, some levels are cleared but those that are not complete are temporarily 
+	unavailable.
+8. Simple save and load function. This will be improved further, but now we are able to save at any time by pressing "s" and read previous record
+	by pressing "space" key.
+

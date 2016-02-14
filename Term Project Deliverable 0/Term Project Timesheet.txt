@@ -1,0 +1,8 @@
+15-112 Term Project Timesheet
+Name: Shaojie Bai
+Andrew ID: shaojieb	
+
+April 3rd 1:00pm --- 5:00 pm. Try panda3d module and pygame module
+April 9th 1:00pm --- 2:20 pm. Constructing story board and try to come up with the rules of the game.
+April 9th 3:30pm --- 4:30 pm. Preparing for the Deliverable #0 (Proposals,etc.).
+April 9th 4:30pm --- 4:50 pm. Meeting with course CA mentor and talk about the term project.
